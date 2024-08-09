@@ -1,4 +1,4 @@
-<h1 align="center"><b>Awesome Curl Oneliners</b></h1>
+<h1 align="center"><b>Awesome Curl Reverse Shell Oneliners</b></h1>
 
 ![image](https://github.com/user-attachments/assets/4e9e721d-5d9e-4e55-bcf2-6bde75d9b3d8)
 
